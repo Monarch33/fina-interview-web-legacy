@@ -1,4 +1,4 @@
-# 🚀 FINA V6 - Guide de Déploiement
+# 🚀 FINA Interview Web Legacy - Guide de Déploiement
 
 ## Option 1 : Déploiement sur Vercel (RECOMMANDÉ - 5 min)
 
